@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<eleicao>
+    <estado uf="ac">
+        <cargo nome="GOVERNADOR">
+            <turno n="1">
+                <votacao brancos="7238" nulos="19115">
+                    <candidato n="11" nome="GLADSON DE LIMA CAMELI" votos="223993"/>
+                    <candidato n="13" nome="MARCUS ALEXANDRE MÉDICI AGUIAR VIANA DA SILVA" votos="144071"/>
+                    <candidato n="17" nome="ULYSSES FREITAS PEREIRA DE ARAÚJO" votos="45032"/>
+                    <candidato n="18" nome="JANAINA ARAUJO FURTADO ACIOLY" votos="2765"/>
+                    <candidato n="70" nome="DAVID SOARES HALL" votos="1215"/>
+                </votacao>
+            </turno>
+        </cargo>
+        <cargo nome="SENADOR">
+            <votacao brancos="31134" nulos="60815">
+                <candidato n="131" nome="JORGE NEY VIANA MACEDO NEVES" votos="117200"/>
+                <candidato n="133" nome="JOZINEY ALVES AMORIM" votos="115243"/>
+                <candidato n="151" nome="MARCIO MIGUEL BITTAR" votos="185066"/>
+                <candidato n="177" nome="PAULO LUIZ PEDRAZZA" votos="20302"/>
+                <candidato n="181" nome="MINORU MARTINS KINPARA" votos="112989"/>
+                <candidato n="555" nome="SÉRGIO DE OLIVEIRA CUNHA" votos="244109"/>
+            </votacao>
+        </cargo>
+        <cargo nome="DEPUTADO FEDERAL">
+            <votacao brancos="10427" nulos="7882">
+                <candidato n="10" nome="Partido Republicano Brasileiro" votos="1179"/>
+                <candidato n="1010" nome="MANUEL MARCOS CARVALHO DE MESQUITA" votos="7489"/>
+                <candidato n="11" nome="Partido Progressista" votos="2541"/>
+                <candidato n="1111" nome="JOSÉ CAVALCANTE DAMASCENO JÚNIOR" votos="4762"/>
+                <candidato n="1122" nome="RUDILEI SOARES DE SOUZA" votos="12905"/>
+                <candidato n="1144" nome="NELSON RODRIGUES SALES" votos="9165"/>
+                <candidato n="12" nome="Partido Democrático Trabalhista" votos="2254"/>
+                <candidato n="1200" nome="EURICO CARVALHO CORDEIRO " votos="794"/>
+                <candidato n="1207" nome="MARIA DE JESUS GOMES DA SILVA CAVALCANTE" votos="385"/>
+                <candidato n="1211" nome="PAULO SORIANO DA SILVA" votos="309"/>
+                <candidato n="1212" nome="JESUS SERGIO DE MENEZES" votos="9537"/>
+                <candidato n="1213" nome="FRANCISCO DE ASSIS DANTAS CASTRO" votos="399"/>
+                <candidato n="1217" nome="JONILSON CABRAL DOS SANTOS " votos="121"/>
+                <candidato n="1220" nome="DINEIA ANDRADE PINHEIRO" votos="130"/>
+                <candidato n="1222" nome="PEDRO RAIMUNDO DE OLIVEIRA" votos="5058"/>
+                <candidato n="1223" nome="DARLENE SILVA DE SOUZA" votos="288"/>
+                <candidato n="1224" nome="RAIMUNDO NONATO DE CASTRO" votos="71"/>
+                <candidato n="1233" nome="EBER SILVA MACHADO" votos="8400"/>
+                <candidato n="1234" nome="JOSE ADRIANO RIBEIRO DA SILVA" votos="6858"/>
+                <candidato n="1244" nome="JOSÉ ELISSANDRO LOPES REGO" votos="689"/>
+                <candidato n="1250" nome="SANDRA MARIA SILVA FERREIRA" votos="22"/>
+                <candidato n="1255" nome="CRISTOVAM PONTES DE MOURA" votos="5587"/>
+                <candidato n="1277" nome="CLEIDE MARIA FERREIRA DE ARAUJO" votos="1087"/>
+                <candidato n="13" nome="Partido dos Trabalhadores" votos="3215"/>
+                <candidato n="1300" nome="DARLA CRISTINA PENHA ALMEIDA DE OLIVEIRA" votos="208"/>
+                <candidato n="1313" nome="SEBASTIÃO SIBA MACHADO OLIVEIRA" votos="9533"/>
+                <candidato n="1314" nome="RAIMUNDO ANGELIM VASCONCELOS" votos="14123"/>
+                <candidato n="1331" nome="LEONARDO CUNHA DE BRITO" votos="14881"/>
+                <candidato n="1377" nome="RAQUEL GLEYCIANE SANTOS DE SOUZA" votos="353"/>
+                <candidato n="14" nome="Partido Trabalhista Brasileiro" votos="915"/>
+                <candidato n="1414" nome="CHARLENE MARIA DE LIMA" votos="4124"/>
+                <candidato n="15" nome="Movimento Democrático Brasileiro" votos="2277"/>
+                <candidato n="1515" nome="JESSICA ROJAS SALES" votos="28717"/>
+                <candidato n="1551" nome="ROBERTO FERES" votos="1308"/>
+                <candidato n="1555" nome="FLAVIANO FLAVIO BAPTISTA DE MELO" votos="18723"/>
+                <candidato n="1593" nome="EUDEMIR GOMES BEZERRA" votos="129"/>
+                <candidato n="17" nome="Partido Social Liberal" votos="1937"/>
+                <candidato n="1700" nome="MICHELA BATISTA LACERDA" votos="734"/>
+                <candidato n="1712" nome="DANIELA PAIVA DE OLIVEIRA" votos="640"/>
+                <candidato n="1717" nome="SEBASTIÃO BOCALOM RODRIGUES" votos="21872"/>
+                <candidato n="1718" nome="JOSE MARIA DE FREITAS MOREIRA" votos="1002"/>
+                <candidato n="1755" nome="MANOEL JOSE NOGUEIRA LIMA" votos="4413"/>
+                <candidato n="1771" nome="RAIMUNDO RICARDO GOMES DA SILVA" votos="124"/>
+                <candidato n="1777" nome="ADRIANO JOSÉ CALDAS DE AGUIAR CAMPELLO" votos="766"/>
+                <candidato n="1788" nome="BERENICE NASCIMENTO DE SOUZA" votos="98"/>
+                <candidato n="18" nome="Rede Sustentabilidade" votos="456"/>
+                <candidato n="1800" nome="IUNA BARROS CHAVES" votos="312"/>
+                <candidato n="1818" nome="CARLOS GOMES DA COSTA SOUZA" votos="5414"/>
+                <candidato n="19" nome="Podemos" votos="660"/>
+                <candidato n="1910" nome="RAILSON CORREIA DA COSTA" votos="5979"/>
+                <candidato n="1944" nome="MARIA JOSÉ DA SILVA LIMA" votos="5"/>
+                <candidato n="20" nome="Partido Social Cristão" votos="208"/>
+                <candidato n="2020" nome="JAMYL ASFURY MARTINS OLIVEIRA" votos="5149"/>
+                <candidato n="22" nome="Partido da República" votos="487"/>
+                <candidato n="2222" nome="ANTÔNIA LUCILÉIA CRUZ RAMOS CÂMARA" votos="15336"/>
+                <candidato n="23" nome="Partido Popular Socialista" votos="427"/>
+                <candidato n="2323" nome="ROSANA SOUSA DO NASCIMENTO" votos="5948"/>
+                <candidato n="25" nome="Democratas" votos="720"/>
+                <candidato n="2525" nome="ALAN RICK MIRANDA" votos="22263"/>
+                <candidato n="27" nome="Democracia Cristã" votos="274"/>
+                <candidato n="2713" nome="FELIPE RIBEIRO DA SILVA LIMA" votos="71"/>
+                <candidato n="2722" nome="ANDRESA DA SILVA CASTRO BARROS" votos="355"/>
+                <candidato n="2727" nome="FRANCISCO OLIVEIRA DA SILVA RIBEIRO " votos="253"/>
+                <candidato n="28" nome="Partido Renovador Trabalhista Brasileiro" votos="84"/>
+                <candidato n="2800" nome="MARIA DO SOCORRO FIRMO DA SILVA" votos="14"/>
+                <candidato n="2828" nome="FRANCISCO ANTONIO LIRA DA SILVA MONTEIRO" votos="242"/>
+                <candidato n="31" nome="Partido Humanista da Solidariedade" votos="741"/>
+                <candidato n="3131" nome="JEFFERSON BARROSO DE ARAÚJO " votos="2406"/>
+                <candidato n="3133" nome="SEBASTIAO ALVES RODRIGUES MANCHINERY " votos="801"/>
+                <candidato n="33" nome="Partido da Mobilização Nacional" votos="284"/>
+                <candidato n="3333" nome="EMILIO VIRGILIO LIMA DE OLIVEIRA" votos="5536"/>
+                <candidato n="35" nome="Partido da Mulher Brasileira" votos="173"/>
+                <candidato n="3535" nome="SILVIA MONTEIRO E SILVA" votos="4580"/>
+                <candidato n="36" nome="Partido Trabalhista Cristão" votos="246"/>
+                <candidato n="3611" nome="JOSÉ EDIMAR SANTIAGO DE MELO JUNIOR" votos="3293"/>
+                <candidato n="40" nome="Partido Socialista Brasileiro" votos="752"/>
+                <candidato n="4040" nome="CARLOS CÉSAR CORREIA DE MESSIAS" votos="10769"/>
+                <candidato n="43" nome="Partido Verde" votos="395"/>
+                <candidato n="4300" nome="ITAMARA SOUZA DA COSTA" votos="179"/>
+                <candidato n="4343" nome="HENRIQUE AFONSO SOARES LIMA" votos="5272"/>
+                <candidato n="44" nome="Partido Republicano Progressista" votos="752"/>
+                <candidato n="4423" nome="ROSE-LANE ALVES JARDIM" votos="222"/>
+                <candidato n="4444" nome="FRANCISCO CARLOS OLIVEIRA DE LIMA" votos="4743"/>
+                <candidato n="4466" nome="GILMAR FONTES" votos="152"/>
+                <candidato n="45" nome="Partido da Social Democracia Brasileira" votos="1844"/>
+                <candidato n="4545" nome="CYLMARA FERNANDES DA ROCHA GRIPP" votos="40047"/>
+                <candidato n="50" nome="Partido Socialismo e Liberdade" votos="271"/>
+                <candidato n="5012" nome="GLÓRIA THAÍS SOUZA DE MELO" votos="358"/>
+                <candidato n="5013" nome="HAMMERLY DA SILVA ALBUQUERQUE" votos="1498"/>
+                <candidato n="5050" nome="FRANCISCO DA SILVA PIYÃKO" votos="2681"/>
+                <candidato n="5055" nome="GILDOMAR OLIVEIRA GOMES" votos="492"/>
+                <candidato n="51" nome="Patriota" votos="326"/>
+                <candidato n="5127" nome="JOSE BIBIANO DE QUEIROZ" votos="94"/>
+                <candidato n="54" nome="Partido Pátria Livre" votos="96"/>
+                <candidato n="5454" nome="FRANCISCO BRIGIDO DA COSTA" votos="1292"/>
+                <candidato n="55" nome="Partido Social Democrático" votos="1196"/>
+                <candidato n="5555" nome="MARIVALDO GONÇALVES DE MELO" votos="12049"/>
+                <candidato n="65" nome="Partido Comunista do Brasil" votos="836"/>
+                <candidato n="6513" nome="MARIA PERPETUA DE ALMEIDA " votos="18374"/>
+                <candidato n="70" nome="AVANTE" votos="27"/>
+                <candidato n="7000" nome="TATIANI DE SOUZA STARKE" votos="14"/>
+                <candidato n="7001" nome="ELDO PONTES HALL" votos="36"/>
+                <candidato n="7007" nome="LENO BERNARDINO DE SOUSA" votos="33"/>
+                <candidato n="7010" nome="JOÃO DOS SANTOS MATIAS MORAIS" votos="10"/>
+                <candidato n="7012" nome="JAIRO DE OLIVEIRA PEREIRA" votos="87"/>
+                <candidato n="7018" nome="DANILO DE MELO MEDEIROS" votos="186"/>
+                <candidato n="7070" nome="CEZAR HILDO PEREIRA" votos="64"/>
+                <candidato n="7071" nome="MARIA PEREGRINA SOUZA E SILVA" votos="67"/>
+                <candidato n="7077" nome="ANA PAULA BATISTA POZENATTO" votos="6"/>
+                <candidato n="77" nome="Solidariedade" votos="764"/>
+                <candidato n="7777" nome="VANDA DENIR MILANI NOGUEIRA" votos="22219"/>
+                <candidato n="90" nome="Partido Republicano da Ordem Social" votos="650"/>
+                <candidato n="9010" nome="ANTONIO PAULINO DA SILVA" votos="214"/>
+                <candidato n="9090" nome="FERNANDO MELO DA COSTA" votos="3214"/>
+            </votacao>
+        </cargo>
+        <cargo nome="DEPUTADO ESTADUAL">
+            <votacao brancos="7429" nulos="7465">
+                <candidato n="10" nome="Partido Republicano Brasileiro" votos="994"/>
+                <candidato n="10007" nome="SIDNEY DIAS DE OLIVEIRA" votos="403"/>
+                <candidato n="10101" nome="MARIA DE LOURDES SILVA DE ALMEIDA" votos="65"/>
+                <candidato n="10111" nome="JOSE ROBERTO PINTO DE LIMA" votos="81"/>
+                <candidato n="10123" nome="JULIANA RODRIGUES DE OLIVEIRA" votos="5990"/>
+                <candidato n="10248" nome="DAYANE DOS SANTOS ANDRADE" votos="38"/>
+                <candidato n="10310" nome="VANUSA FERREIRA CORREA" votos="1"/>
+                <candidato n="10333" nome="ANSELMO ALVES DE BRITO" votos="41"/>
+                <candidato n="10444" nome="JORGE FIGUEIREDO DE MELO" votos="151"/>
+                <candidato n="10456" nome="WANDERLEY NUNES DE BRITO" votos="79"/>
+                <candidato n="10510" nome="ADENIZIA DA ROCHA PESSOA" votos="6"/>
+                <candidato n="10555" nome="GENILSON DA SILVA BARBOSA" votos="83"/>
+                <candidato n="10777" nome="ANDRE ROBERTO ROGERIO VALE DOS SANTOS" votos="5827"/>
+                <candidato n="10810" nome="FRANCISCA MARQUES RIBEIRO APURINÃ" votos="4"/>
+                <candidato n="10910" nome="KLAITON ANDRE BRAGA PINHEIRO" votos="214"/>
+                <candidato n="11" nome="Partido Progressista" votos="2133"/>
+                <candidato n="11000" nome="TEREZINHA DOS SANTOS MOREIRA" votos="2473"/>
+                <candidato n="11003" nome="SEBASTIÃO NOGUEIRA DA CRUZ" votos="53"/>
+                <candidato n="11011" nome="NAIRA DE SOUSA BARBOSA" votos="18"/>
+                <candidato n="11100" nome="CLEVERTON MONTE DO NASCIMENTO" votos="186"/>
+                <candidato n="11106" nome="JOSÉ RAIMUNDO BARROSO BESTENE" votos="5113"/>
+                <candidato n="11111" nome="GEHLEN DINIZ ANDRADE" votos="8479"/>
+                <candidato n="11119" nome="GIZELDA MARIA DA SILVA SILVEIRA NEPOMUCENO" votos="179"/>
+                <candidato n="11122" nome="NICOLAU CÂNDIDO DA SILVA JÚNIOR" votos="7509"/>
+                <candidato n="11123" nome="BRUNA FERNANDA DE SOUZA ALVES" votos="36"/>
+                <candidato n="11125" nome="RUBERVAL BRAGA ROLA" votos="223"/>
+                <candidato n="11190" nome="DEINIFRANCE DOURADO FRANÇA" votos="75"/>
+                <candidato n="11222" nome="JOSÉ RIBAMAR COSTA" votos="903"/>
+                <candidato n="11234" nome="JOAQUIM LIRA DE CARVALHO" votos="125"/>
+                <candidato n="11244" nome="MANOEL FRANCISCO LOPES DE MIRANDA" votos="273"/>
+                <candidato n="11288" nome="LIZ SANDRA RODRIGUES BATISTA DE SOUZA" votos="125"/>
+                <candidato n="11321" nome="JOSÉ VIEIRA TORRES" votos="345"/>
+                <candidato n="11333" nome="ELISEU SOARES MOREIRA" votos="796"/>
+                <candidato n="11444" nome="MARIVALDO VALENTE DE FIGUEIREDO" votos="2777"/>
+                <candidato n="11456" nome="LUCILA BRUNETTA" votos="2725"/>
+                <candidato n="11555" nome="ARNALDO SILVA SOUSA" votos="87"/>
+                <candidato n="11567" nome="RONILDO ARAÚJO DA SILVA" votos="91"/>
+                <candidato n="11777" nome="PAULO JOSÉ DOS SANTOS PEREIRA" votos="166"/>
+                <candidato n="11789" nome="HAYDA FERREIRA GUERRA" votos="58"/>
+                <candidato n="11888" nome="MARIA SOUZA DE ANDRADE" votos="44"/>
+                <candidato n="11999" nome="MANOEL GOMES DA SILVA" votos="1941"/>
+                <candidato n="12" nome="Partido Democrático Trabalhista" votos="1813"/>
+                <candidato n="12000" nome="MAURICIO DE OLIVEIRA ARAUJO" votos="2175"/>
+                <candidato n="12007" nome="JUNIOR DA SILVA MOREIRA" votos="166"/>
+                <candidato n="12012" nome="GEMIL SALIM DE ABREU JUNIOR" votos="2870"/>
+                <candidato n="12018" nome="DENER HIGOR PADILHA GOES" votos="168"/>
+                <candidato n="12100" nome="MARIA LUZEMIRA AGUIAR CARVALHO" votos="293"/>
+                <candidato n="12111" nome="EDER DE SOUZA VIANA" votos="594"/>
+                <candidato n="12121" nome="JOÃO ARRUDA ARAGÃO" votos="495"/>
+                <candidato n="12122" nome="FRANCISCA DO NASCIMENTO DE ARAÚJO SOUSA" votos="258"/>
+                <candidato n="12123" nome="JOSE LUIS SCHAFER" votos="3429"/>
+                <candidato n="12171" nome="VALDECIR NICACIO LIMA " votos="401"/>
+                <candidato n="12221" nome="MARIA ANTONIA FERREIRA MARQUES" votos="42"/>
+                <candidato n="12222" nome="AURÉLIO ALVES DE LIMA" votos="494"/>
+                <candidato n="12223" nome="SARIA OLIVEIRA DA SILVA" votos="35"/>
+                <candidato n="12300" nome="ANTONIO FERREIRA PEREIRA" votos="190"/>
+                <candidato n="12321" nome="DENISE DIAS DA SILVA GOMES" votos="131"/>
+                <candidato n="12333" nome="ARLENILSON BARBOSA CUNHA" votos="2252"/>
+                <candidato n="12344" nome="MARIA ROSIVANE DA SILVA SACRAMENTO" votos="319"/>
+                <candidato n="12345" nome="JOSE JANES GOMES DA SILVA" votos="2210"/>
+                <candidato n="12347" nome="PAULO HENRIQUE DE SOUZA SILVA " votos="583"/>
+                <candidato n="12369" nome="TELMA MARIA SOUZA CHAVES" votos="1296"/>
+                <candidato n="12444" nome="ITAMIR ALISSON NEVES DE LIMA" votos="2802"/>
+                <candidato n="12456" nome="JOAO EDVALDO TELES DE LIMA" votos="748"/>
+                <candidato n="12555" nome="RISOMAR FREIRE DA SILVA" votos="617"/>
+                <candidato n="12777" nome="RAFAEL ALMEIDA DE SOUSA" votos="3477"/>
+                <candidato n="12789" nome="THIAGO SILVA MACHADO" votos="1836"/>
+                <candidato n="12888" nome="MARIA DO SOCORRO DE JESUS DO NASCIMENTO" votos="62"/>
+                <candidato n="12987" nome="SUZANE MENEZES DE SOUZA" votos="121"/>
+                <candidato n="12999" nome="JOSÉ CIRIO DE OLIVEIRA FREITAS" votos="186"/>
+                <candidato n="13" nome="Partido dos Trabalhadores" votos="5100"/>
+                <candidato n="13000" nome="LOURIVAL MARQUES DE OLIVEIRA FILHO" votos="6067"/>
+                <candidato n="13003" nome="MARIA JOSE RODRIGUES ANTROBOS MATOS" votos="389"/>
+                <candidato n="13012" nome="JONAS DE SOUZA LIMA" votos="7322"/>
+                <candidato n="13013" nome="ANA LEILA GALVÃO MAIA MOREIRA" votos="6071"/>
+                <candidato n="13053" nome="NILDSON COSTA DE MOURA" votos="534"/>
+                <candidato n="13123" nome="DANIEL QUEIROZ DE SANT ANA" votos="6616"/>
+                <candidato n="13131" nome="TEMYLLIS LIMA DA SILVA" votos="1549"/>
+                <candidato n="13132" nome="ALBERTO FERNANDES RODRIGUES" votos="216"/>
+                <candidato n="13223" nome="JAMES FELIX DE SOUZA" votos="70"/>
+                <candidato n="13226" nome="FRANCIMAR FERNANDES DE ALBUQUERQUE" votos="1370"/>
+                <candidato n="13333" nome="ANTONIO RAIMUNDO MELONIA DE ANDRADE" votos="303"/>
+                <candidato n="13369" nome="ELINEIDE MEIRELES MEDEIROS" votos="468"/>
+                <candidato n="13456" nome="GLENILSOM ARAÚJO FIGUEIREDO" votos="2161"/>
+                <candidato n="13610" nome="JOSE SELMO DANTAS ALVES" votos="153"/>
+                <candidato n="13640" nome="ROSANGELA MARIA SOARES DE MELO" votos="152"/>
+                <candidato n="13690" nome="TEREZINHA SANTANA DA SILVA" votos="589"/>
+                <candidato n="13777" nome="JAKSON ROBERO RAMOS DA SILVA" votos="4531"/>
+                <candidato n="13789" nome="GONTRAN DE FREITAS MACIEL NETO " votos="458"/>
+                <candidato n="13999" nome="ALDEMIR DA SILVA LOPES" votos="1358"/>
+                <candidato n="14" nome="Partido Trabalhista Brasileiro" votos="507"/>
+                <candidato n="14001" nome="MARIA DAS DORES TAVARES DE SOUZA" votos="10"/>
+                <candidato n="14012" nome="ALAN MORAIS DE OLIVEIRA" votos="530"/>
+                <candidato n="14014" nome="CARLOS COSTA VALE" votos="1019"/>
+                <candidato n="14088" nome="ANA ISLA ARRUDA FREITAS" votos="1"/>
+                <candidato n="14100" nome="JEFRSON DA SILVA MENDONÇA" votos="2124"/>
+                <candidato n="14101" nome="ARLEYSSA SOUZA DA SILVA" votos="102"/>
+                <candidato n="14110" nome="RONACLEUDO SILVA AFON" votos="403"/>
+                <candidato n="14111" nome="RENÊ ROBERTO NOBRE DE FONTES" votos="2121"/>
+                <candidato n="14114" nome="VITORIA RIBEIRO DE ASSIS LIMA" votos="22"/>
+                <candidato n="14120" nome="MARIA DE JESUS SILVA" votos="71"/>
+                <candidato n="14123" nome="IJESUINO FIRMINO DE SOUSA" votos="919"/>
+                <candidato n="14144" nome="SIMONE SILVA DE FREITAS FELIX" votos="18"/>
+                <candidato n="14145" nome="DACI SILVA DA GAMA" votos="176"/>
+                <candidato n="14222" nome="ANDREA LIMA PÚPIO" votos="10"/>
+                <candidato n="14233" nome="FABIANO DE OLIVEIRA SILVA" votos="1146"/>
+                <candidato n="14240" nome="ISLAYNE ARRUDA DE FREITAS" votos="3"/>
+                <candidato n="14333" nome="MARCUS ANTONIO CAVALCANTE LIMA" votos="4044"/>
+                <candidato n="14400" nome="ENOQUE PEREIRA DE LIMA" votos="1037"/>
+                <candidato n="14444" nome="VALDEMIR JANUARIO DE ALMEIDA" votos="438"/>
+                <candidato n="14456" nome="SÉRGIO TORRES DOS SANTOS" votos="851"/>
+                <candidato n="14507" nome="VALQUIMAR LUSTOSA DE OLIVEIRA" votos="242"/>
+                <candidato n="14555" nome="JOSIMAR TAVARES DOS SANTOS" votos="227"/>
+                <candidato n="14666" nome="FRANCISCO HELCIO GADELHA DE ALENCAR" votos="1"/>
+                <candidato n="14678" nome="FRANCISCO LEANDRO COSTA" votos="787"/>
+                <candidato n="14777" nome="MICHAEL ALVES DOS SANTOS" votos="53"/>
+                <candidato n="14789" nome="MARCELO DA SILVA SANTANA" votos="830"/>
+                <candidato n="14888" nome="JOSILEUDO MUNIZ PONTES" votos="6"/>
+                <candidato n="15" nome="Movimento Democrático Brasileiro" votos="3900"/>
+                <candidato n="15000" nome="ROBERTO DUARTE JUNIOR" votos="9405"/>
+                <candidato n="15100" nome="ESPERIDIÃO MENEZES JUNIOR" votos="46"/>
+                <candidato n="15111" nome="ROZIMEIRE RIBEIRO ANDRADE" votos="10349"/>
+                <candidato n="15120" nome="JUAREZ RIBEIRO MACIEL FILHO" votos="191"/>
+                <candidato n="15122" nome="ANTONIA ROJAS SALES" votos="9139"/>
+                <candidato n="15131" nome="ANTONIO NIZOMAR DOS SANTOS" votos="32"/>
+                <candidato n="15133" nome="EDITH MONTES DO NASCIMENTO DE QUEIROIS" votos="74"/>
+                <candidato n="15151" nome="SERGIO RICARDO ALVES DE OLIVEIRA" votos="53"/>
+                <candidato n="15185" nome="FRANCISCO DE PAULA DA SILVA" votos="38"/>
+                <candidato n="15191" nome="CEZAR HENRIQUE RODRIGUES DE OLIVEIRA" votos="261"/>
+                <candidato n="15222" nome="ANTONIA ODINEIA DA SILVA NASCIMENTO" votos="78"/>
+                <candidato n="15234" nome="ANTONIO DE OLIVEIRA BARBOSA" votos="332"/>
+                <candidato n="15333" nome="HELEM DACILANE DA SILVA DUARTE" votos="280"/>
+                <candidato n="15555" nome="ELIANE PEREIRA SINHASIQUE" votos="4909"/>
+                <candidato n="15789" nome="MARIA TARCILIA DOURADO DE OLIVEIRA" votos="33"/>
+                <candidato n="15999" nome="EMERSON LEÃO PEREIRA DA SILVA" votos="981"/>
+                <candidato n="17" nome="Partido Social Liberal" votos="1989"/>
+                <candidato n="17000" nome="MARCIO HELENO SCHIAVO SIMOES" votos="645"/>
+                <candidato n="17001" nome="GIGLIANE SANTOS DA SILVA" votos="98"/>
+                <candidato n="17017" nome="FRANCISCO ROQUE DA COSTA" votos="598"/>
+                <candidato n="17077" nome="BRUNA MENEZES BRITO DO NASCIMENTO" votos="252"/>
+                <candidato n="17111" nome="MARIA DE JESUS ARAUJO DOS SANTOS PASCOA" votos="244"/>
+                <candidato n="17117" nome="ALEXANDRE ALVES DE SOUZA" votos="221"/>
+                <candidato n="17123" nome="ROSINEI CIRIACO DE QUEIROZ RAMOS" votos="218"/>
+                <candidato n="17127" nome="JOSE MARIA DA SILVA ARAUJO" votos="62"/>
+                <candidato n="17169" nome="MARIA HELENA TEIXEIRA DA SILVA" votos="148"/>
+                <candidato n="17177" nome="SEBASTIÃO PEDRO REDA" votos="205"/>
+                <candidato n="17190" nome="MARIA DAS CANDEIAS DOS SANTOS LIMA" votos="145"/>
+                <candidato n="17193" nome="LUIZ DE GONZAGA RIBEIRO DA SILVA" votos="281"/>
+                <candidato n="17200" nome="KAROLINE LIMA BRILHANTE" votos="50"/>
+                <candidato n="17212" nome="RAIANE ALVES DE SOUZA" votos="40"/>
+                <candidato n="17222" nome="OLAVO FRANCELINO DE REZENDE" votos="1755"/>
+                <candidato n="17234" nome="TARLEN JUNIO PEREIRA DE SOUZA" votos="50"/>
+                <candidato n="17300" nome="FRANCISCO CARLOS ARAÚJO" votos="307"/>
+                <candidato n="17333" nome="CARLOS LEANDRO DA COSTA SOUSA" votos="243"/>
+                <candidato n="17345" nome="FRANCISCO CARLOS COSTA DE OLIVEIRA" votos="62"/>
+                <candidato n="17400" nome="LUCAS DE OLIVEIRA BEZERRA" votos="604"/>
+                <candidato n="17444" nome="FRANCISCO BARBOSA DA SILVA" votos="505"/>
+                <candidato n="17456" nome="RICARDO FERREIRA DE AZEVEDO" votos="193"/>
+                <candidato n="17555" nome="WHENDY SNANKY PRAXEDES PONCIANO DA SILVA LIMA" votos="4058"/>
+                <candidato n="17666" nome="EDCLEO ARAUJO DE OLIVEIRA" votos="448"/>
+                <candidato n="17681" nome="ADIR LUIZ PAGLIARINI" votos="150"/>
+                <candidato n="17700" nome="JOAO PAULO APRIGIO DE FIGUEIREDO" votos="164"/>
+                <candidato n="17777" nome="MAURICIO HOHENBERGER" votos="433"/>
+                <candidato n="17789" nome="ABDIAS DAMASCENO DA SILVA" votos="182"/>
+                <candidato n="17888" nome="GILBERTO GIL GOUVEIA DINIZ" votos="17"/>
+                <candidato n="17999" nome="ANTONIO CARLOS DE OLIVEIRA FONSECA" votos="158"/>
+                <candidato n="18" nome="Rede Sustentabilidade" votos="675"/>
+                <candidato n="18000" nome="GABRIEL SANTOS DE SOUZA" votos="3499"/>
+                <candidato n="18012" nome="CLAUDILENE XIMENES DA CUNHA" votos="33"/>
+                <candidato n="18018" nome="VANESSA NASCIMENTO FACUNDES MAIA" votos="722"/>
+                <candidato n="18038" nome="VALDEMIR DA SILVA" votos="138"/>
+                <candidato n="18100" nome="RAIMUNDA HOLANDA DA SILVA" votos="43"/>
+                <candidato n="18118" nome="GEILSON UCHOA DA ROCHA" votos="71"/>
+                <candidato n="18123" nome="ROOSEVELT WILLIAM TONDO DE OLIVEIRA" votos="39"/>
+                <candidato n="18181" nome="MAIK DA SILVA ARAUJO" votos="69"/>
+                <candidato n="18188" nome="ROBERTO DE AZEVEDO SILVA" votos="55"/>
+                <candidato n="18888" nome="RAIMUNDO NONATO ACIOLY GOMES" votos="820"/>
+                <candidato n="19" nome="Podemos" votos="615"/>
+                <candidato n="19000" nome="JAIME LEITE DA SILVA" votos="93"/>
+                <candidato n="19019" nome="ANTONIO JOSENILDO INACIO DA SILVA" votos="6412"/>
+                <candidato n="19100" nome="RAIMUNDO CORREIA DA COSTA" votos="4653"/>
+                <candidato n="19123" nome="JUAREZ PEDROSA CAVALCANTE" votos="128"/>
+                <candidato n="19234" nome="RAIMUNDO FRANCISCO MAIA DIAS" votos="496"/>
+                <candidato n="19300" nome="HEITOR ANDRADE DE MACEDO FILHO" votos="5706"/>
+                <candidato n="19333" nome="MAURO ROBERTO SIQUEIRA CONDE" votos="32"/>
+                <candidato n="19555" nome="JESUS FERREIRA DA SILVA" votos="27"/>
+                <candidato n="19567" nome="SEBASTIAO TAVARES DE OLIVEIRA" votos="229"/>
+                <candidato n="19777" nome="MARCELO DA SILVA DE LIMA" votos="207"/>
+                <candidato n="19789" nome="LEODIL FRANCISCO LEAL" votos="1"/>
+                <candidato n="19999" nome="LOURDES DOS SANTOS VIDAL" votos="26"/>
+                <candidato n="20" nome="Partido Social Cristão" votos="185"/>
+                <candidato n="20000" nome="SANDRA REGINA ASFURY MARTINS OLIVEIRA" votos="1870"/>
+                <candidato n="20001" nome="IVONE PORTELA DA COSTA" votos="9"/>
+                <candidato n="20010" nome="ANA ALICE PINTO SIMAO" votos="11"/>
+                <candidato n="20111" nome="ELCIDA MARIA VASCONCELOS" votos="34"/>
+                <candidato n="20222" nome="FRANCISCO DAS CHAGAS SILVA DE LIMA" votos="68"/>
+                <candidato n="20333" nome="ALEDIAS SOARES DE SOUZA" votos="699"/>
+                <candidato n="20444" nome="JOSE CARLOS MORINI" votos="202"/>
+                <candidato n="20555" nome="FRANCISCO ALBINO DE OLIVEIRA RODRIGUES" votos="83"/>
+                <candidato n="20666" nome="ALCINDO OLIVEIRA NASCIMENTO" votos="195"/>
+                <candidato n="20777" nome="ARLAND GURGEL DE MELO SILVA" votos="71"/>
+                <candidato n="20999" nome="FRANCISCO DO NASCIMENTO GOMES" votos="373"/>
+                <candidato n="22" nome="Partido da República" votos="529"/>
+                <candidato n="22123" nome="ORLANDO DINIZ" votos="627"/>
+                <candidato n="22222" nome="RAIMUNDO VAZ DE AZEVEDO" votos="2936"/>
+                <candidato n="22333" nome="WAGNER FELIPE GIMENES DA SILVA" votos="3568"/>
+                <candidato n="23" nome="Partido Popular Socialista" votos="357"/>
+                <candidato n="23000" nome="JOZIAS SILVA DO NASCIMENTO" votos="486"/>
+                <candidato n="23100" nome="AMELIA BATISTA DE ARAUJO" votos="101"/>
+                <candidato n="23110" nome="MOISES PEREIRA XAVIER" votos="32"/>
+                <candidato n="23111" nome="PAULINO BATISTA DE MEDEIROS" votos="389"/>
+                <candidato n="23123" nome="LUCAS PROFETA CESARIO ROSA" votos="2851"/>
+                <candidato n="23149" nome="ALDILEIDE VIEIRA DE ARAÚJO" votos="29"/>
+                <candidato n="23222" nome="JOSE NILTON MELO DE OLIVEIRA" votos="209"/>
+                <candidato n="23333" nome="FRANCISCO DE ASSIS DOS SANTOS FURTADO" votos="65"/>
+                <candidato n="23444" nome="JOSE MASTRANGELO FILHO" votos="351"/>
+                <candidato n="23456" nome="JOSE ANTONIO CORDOVIL" votos="797"/>
+                <candidato n="23555" nome="RAIMUNDO MACIEL TELES" votos="1"/>
+                <candidato n="23999" nome="JOSE EGLE OLIVEIRA REBOUÇAS" votos="29"/>
+                <candidato n="25" nome="Democratas" votos="799"/>
+                <candidato n="25000" nome="NELSON DE FREITAS CORREIA" votos="2168"/>
+                <candidato n="25001" nome="FRANCISCO WAGNER FERREIRA CAMPOS" votos="206"/>
+                <candidato n="25025" nome="BLANDINA MARIA MENEZES DA SILVA E SILVA" votos="1084"/>
+                <candidato n="25125" nome="SEBASTIANA DOS SANTOS OLIVEIRA" votos="29"/>
+                <candidato n="25128" nome="RUBENS MARTINS DE OLIVEIRA" votos="27"/>
+                <candidato n="25146" nome="MANOEL VALDIR TEIXEIRA DE SOUZA" votos="65"/>
+                <candidato n="25190" nome="MARIA DA GLORIA FIGUEIREDO MELO DA COSTA" votos="96"/>
+                <candidato n="25220" nome="FRANESI DA SILVA RIBEIRO" votos="1305"/>
+                <candidato n="25222" nome="FELIPE CARDOSO MARTINS LIMA" votos="329"/>
+                <candidato n="25333" nome="LEANDRO BEZERRA DA COSTA" votos="621"/>
+                <candidato n="25456" nome="ANTONIO PEDRO MENDONÇA" votos="5021"/>
+                <candidato n="25556" nome="LUZIVALDO DE MOURA OLIVEIRA" votos="237"/>
+                <candidato n="25789" nome="HIDSON DA COSTA MORAES" votos="318"/>
+                <candidato n="25888" nome="MANOEL FRANCISCO PINTO DE LIMA" votos="290"/>
+                <candidato n="25998" nome="SONIA DE FATIMA SILVA ALVES " votos="6"/>
+                <candidato n="27" nome="Democracia Cristã" votos="104"/>
+                <candidato n="27000" nome="RAIMUNDO NONATO FERREIRA SANTOS" votos="79"/>
+                <candidato n="27001" nome="JOSE VICTOR MESQUITA DE CASTRO" votos="1"/>
+                <candidato n="27007" nome="LAURO CAVALCANTE ANDRADE JUNIOR " votos="500"/>
+                <candidato n="27012" nome="MANOEL FRANCISCO LIMA DE SOUZA" votos="240"/>
+                <candidato n="27111" nome="JOAO BATISTA PEREIRA DA SILVA" votos="1400"/>
+                <candidato n="27122" nome="DANILVA LIMA DA CUNHA" votos="104"/>
+                <candidato n="27123" nome="JOSE AFONSO VASCONCELOS FERNANDES" votos="1926"/>
+                <candidato n="27131" nome="FRANCISCO DAS CHAGAS AMORIM DE LIMA" votos="6"/>
+                <candidato n="27327" nome="SERGIO CASTAGNA JUNIOR" votos="3"/>
+                <candidato n="27344" nome="JANAYRA DA SILVA VASCONCELOS" votos="1"/>
+                <candidato n="27385" nome="DHUNA GUILHERMINA DA SILVA" votos="16"/>
+                <candidato n="27444" nome="JOSE ORLEILSON SERAFIM  DA SILVA" votos="89"/>
+                <candidato n="27555" nome="ANDRE DA SILVA BATISTA" votos="90"/>
+                <candidato n="27656" nome="RAIMUNDA NONATO DA COSTA ASSIS" votos="7"/>
+                <candidato n="27878" nome="EDIGLEY DE SOUSA ROSENDO" votos="731"/>
+                <candidato n="27888" nome="RUYTER TOME ROCHA FILHO" votos="119"/>
+                <candidato n="27899" nome="MARIO GERSON BARBOSA DA SILVA KAXINAWA" votos="477"/>
+                <candidato n="27999" nome="SAULO GADELHA PESSOA" votos="93"/>
+                <candidato n="28" nome="Partido Renovador Trabalhista Brasileiro" votos="45"/>
+                <candidato n="28000" nome="NILTON CEZAR GOMES DE ARAUJO DA SILVA" votos="130"/>
+                <candidato n="28111" nome="DANILO OLIVEIRA DINIZ" votos="164"/>
+                <candidato n="28123" nome="ROGERIO SANTOS MARTINS" votos="62"/>
+                <candidato n="28178" nome="ENOQUE DE FRANÇA LIMA" votos="22"/>
+                <candidato n="28190" nome="ROSIMILSON FERREIRA DE ARAUJO" votos="188"/>
+                <candidato n="28234" nome="FRANCISCO CRISTIANO SOUZA BORGES" votos="83"/>
+                <candidato n="28333" nome="ROGER SANTOS DA SILVA" votos="250"/>
+                <candidato n="28444" nome="FRANCISCO JARDEL NASCIMENTO FERREIRA" votos="16"/>
+                <candidato n="28456" nome="SEBASTIAO LEANDRO DA SILVA" votos="24"/>
+                <candidato n="28555" nome="ARTEMILSON OLIVEIRA VIANA" votos="91"/>
+                <candidato n="28888" nome="ANDRESSA JULIANA DE MELO MOUSSE" votos="167"/>
+                <candidato n="28999" nome="LUCINEIA FERREIRA DA SILVA" votos="22"/>
+                <candidato n="31" nome="Partido Humanista da Solidariedade" votos="386"/>
+                <candidato n="31000" nome="CARLOS KILSON MAIA RIBEIRO" votos="1353"/>
+                <candidato n="31007" nome="EDSON CAVALCANTE DA SILVA" votos="407"/>
+                <candidato n="31031" nome="JOSÉ ROBERTO DE ARAUJO" votos="2900"/>
+                <candidato n="31100" nome="MARIA JUCILEIDE MARINHO" votos="429"/>
+                <candidato n="31111" nome="RAIMUNDO NONATO GOMES DA SILVA" votos="160"/>
+                <candidato n="31113" nome="TALIA FERRAZ RODRIGUES" votos="3"/>
+                <candidato n="31123" nome="JOAO REIS LOPES DA CRUZ" votos="202"/>
+                <candidato n="31131" nome="KENEDY DE LIMA DANTAS" votos="552"/>
+                <candidato n="31222" nome="FRANCISCO LOPES FELIX" votos="25"/>
+                <candidato n="31300" nome="MARIA APARECIDA MARTINS DOS SANTOS" votos="370"/>
+                <candidato n="31321" nome="HELENARA RODRIGUES BEZ" votos="59"/>
+                <candidato n="31331" nome="MARIA DE FATIMA SORIANO DA SILVA" votos="991"/>
+                <candidato n="31333" nome="MOZANI MARIANO DE ALMEIDA" votos="741"/>
+                <candidato n="31441" nome="RAUANNI BARROSO RODRIGUES" votos="19"/>
+                <candidato n="31444" nome="FRANCISCO DE OLIVEIRA VIGA" votos="3382"/>
+                <candidato n="31445" nome="MANOEL ROQUE DE SOUZA YAUANAWA" votos="476"/>
+                <candidato n="31456" nome="JOSE ARNALDO DA SILVA BARROS" votos="1551"/>
+                <candidato n="31555" nome="JULIO ALBERTO COSTA DE FARIA" votos="1260"/>
+                <candidato n="31777" nome="GILBERTO CABRAL DE MOURA" votos="695"/>
+                <candidato n="31789" nome="MARCOS LEANDRO LIRA DE LIMA" votos="21"/>
+                <candidato n="31888" nome="JOÃO JOSE BISPO DA COSTA" votos="722"/>
+                <candidato n="31999" nome="JONAS COSTA DA SILVA" votos="157"/>
+                <candidato n="33" nome="Partido da Mobilização Nacional" votos="226"/>
+                <candidato n="33333" nome="ANTONIO EDEMILSON DA SILVA SOUZA" votos="2376"/>
+                <candidato n="33456" nome="DAVID SOUZA CORREIA" votos="419"/>
+                <candidato n="35" nome="Partido da Mulher Brasileira" votos="162"/>
+                <candidato n="35000" nome="JOSE CARLOS PINTO FURTADO" votos="664"/>
+                <candidato n="35013" nome="MARIA ALVES DO NASCIMENTO" votos="89"/>
+                <candidato n="35100" nome="EDIVALDO DE FREITAS PAES" votos="296"/>
+                <candidato n="35123" nome="GLEICIANE ROSANA DOS SANTOS" votos="40"/>
+                <candidato n="35193" nome="JOSÉ DE BRITO SOARES" votos="805"/>
+                <candidato n="35321" nome="RAFAEL DA SILVA CAVALCANTE" votos="12"/>
+                <candidato n="35355" nome="RAIGNER DANTAS DE SOUZA" votos="83"/>
+                <candidato n="35888" nome="KATIUCIA CONCEIÇÃO DA ROCHA" votos="53"/>
+                <candidato n="36" nome="Partido Trabalhista Cristão" votos="187"/>
+                <candidato n="36000" nome="JOSÉ ELSON SANTIAGO DE MELO" votos="3167"/>
+                <candidato n="36123" nome="DJANAIRA RODRIGUES DA COSTA" votos="42"/>
+                <candidato n="36444" nome="FRANCINEIDE DA COSTA SANTOS" votos="103"/>
+                <candidato n="36999" nome="MARCELO GOMES DO NASCIMENTO" votos="353"/>
+                <candidato n="40" nome="Partido Socialista Brasileiro" votos="628"/>
+                <candidato n="40000" nome="GILSOMAR LOPES DA SILVA" votos="117"/>
+                <candidato n="40007" nome="NATALINO PAULO DE SOUZA" votos="581"/>
+                <candidato n="40012" nome="RONALEUDO DA SILVA FERREIRA" votos="196"/>
+                <candidato n="40040" nome="JOSÉ ROBERTO DE SOUSA AGUIAR " votos="663"/>
+                <candidato n="40069" nome="DENIS DA COSTA PASSOS" votos="49"/>
+                <candidato n="40100" nome="MARIA AUXILIADORA NASCIMENTO SOUZA" votos="366"/>
+                <candidato n="40111" nome="MARIA DE FÁTIMA VASCONCELOS" votos="455"/>
+                <candidato n="40120" nome="UZIR SANTOS DE LIMA" votos="93"/>
+                <candidato n="40121" nome="MARIA VENÂNCIO DA SILVA" votos="103"/>
+                <candidato n="40123" nome="CARLA ÍVANE DE BRITTO" votos="3499"/>
+                <candidato n="40133" nome="MARCO AURÉLIO GUILHERME FLORES" votos="126"/>
+                <candidato n="40135" nome="ORIANA LUZ DE SOUZA SILVA" votos="123"/>
+                <candidato n="40150" nome="EMILDISON DOS SANTOS DANIEL" votos="168"/>
+                <candidato n="40190" nome="DEODATO NUNES DE FRANÇA" votos="731"/>
+                <candidato n="40222" nome="MIRLENE ALMEIDA DA SILVA" votos="85"/>
+                <candidato n="40233" nome="JOÃO KENNEDY DE SOUZA ROSAS" votos="128"/>
+                <candidato n="40234" nome="MANOEL MORAES DE SALES" votos="7135"/>
+                <candidato n="40321" nome="JEFERSON ALENCAR" votos="135"/>
+                <candidato n="40333" nome="CARLOS CELSO SOUTO" votos="360"/>
+                <candidato n="40364" nome="PAULINO DE ALMEIDA LIMA NETTO" votos="622"/>
+                <candidato n="40400" nome="MÁRCIA MARIA DA SILVA SOUZA" votos="755"/>
+                <candidato n="40404" nome="RAIMUNDO NONATO COSTA" votos="226"/>
+                <candidato n="40444" nome="RAFAEL SOUZA DA SILVA" votos="210"/>
+                <candidato n="40456" nome="LÚBIA ARAÚJO DE LIMA" votos="145"/>
+                <candidato n="40500" nome="THIAGO ELIAS DO AMARAL MELO" votos="258"/>
+                <candidato n="40555" nome="DAVILENE ANAISSI MENEZES" votos="163"/>
+                <candidato n="40607" nome="ZILDA TOMÁS DA COSTA" votos="126"/>
+                <candidato n="40700" nome="FAÍMA JINKINS GOMES" votos="127"/>
+                <candidato n="40777" nome="EZEQUIEL ALVES DE ARAÚJO" votos="816"/>
+                <candidato n="40800" nome="CARLOS ALBERTO SILVA ARAÚJO" votos="257"/>
+                <candidato n="40888" nome="JEAN DAMASCENO LIMA" votos="231"/>
+                <candidato n="40900" nome="SUELI ASSUNÇÃO DA SILVA" votos="292"/>
+                <candidato n="43" nome="Partido Verde" votos="264"/>
+                <candidato n="43000" nome="MAURA MARIA DE AQUINO PENHA" votos="480"/>
+                <candidato n="43007" nome="MANOEL DO CARMO SILVA" votos="116"/>
+                <candidato n="43023" nome="MARIA ALCINEYDE MELO DE LIMA" votos="78"/>
+                <candidato n="43043" nome="LIGIANE SANTOS PEREIRA" votos="53"/>
+                <candidato n="43111" nome="ANTONIO EDILSON RODRIGUES DOS SANTOS" votos="227"/>
+                <candidato n="43123" nome="LÁZARO MOURA DE NEGREIROS" votos="399"/>
+                <candidato n="43233" nome="ALONSO GOMES DE ANDRADE" votos="1615"/>
+                <candidato n="43333" nome="PEDRO LUIS LONGO" votos="3570"/>
+                <candidato n="43444" nome="ALESSANDRA RODRIGUES CIACCI" votos="23"/>
+                <candidato n="43777" nome="FAGNER CALEGÁRIO DO NASCIMENTO" votos="3731"/>
+                <candidato n="44" nome="Partido Republicano Progressista" votos="413"/>
+                <candidato n="44000" nome="MARCELO AUGUSTO ALVES PIMENTA" votos="754"/>
+                <candidato n="44100" nome="LUIZ GONZAGA DE LIMA REGO" votos="2793"/>
+                <candidato n="44111" nome="JOSE IVONALDO DA COSTA RODRIGUES" votos="206"/>
+                <candidato n="44123" nome="ELY ALVES VIEIRA" votos="350"/>
+                <candidato n="44200" nome="ALEXANDRINA DA SILVA VASQUES" votos="23"/>
+                <candidato n="44300" nome="DAITON DOS SANTOS MANGABEIRA" votos="120"/>
+                <candidato n="44333" nome="APARECIDO OLIVEIRA SILVA" votos="909"/>
+                <candidato n="44369" nome="PAULO CESAR DA SILVA" votos="516"/>
+                <candidato n="44400" nome="GILMAR PISMEL ALMEIDA" votos="62"/>
+                <candidato n="44404" nome="VANUSA FERREIRA VERAS" votos="1"/>
+                <candidato n="44500" nome="ISMAEL DA SILVA MUNIZ" votos="1932"/>
+                <candidato n="44555" nome="ELISON DENIS AZEVEDO DA SILVA" votos="1218"/>
+                <candidato n="44678" nome="DANIELE PINHEIRO DANIEL" votos="38"/>
+                <candidato n="44777" nome="LUCILENE DE SOUSA RODRIGUES VALE" votos="8"/>
+                <candidato n="44800" nome="EDEMILDES DA SILVA PAULINO" votos="24"/>
+                <candidato n="44888" nome="JOSE ALTAMIR TAUMATURGO SÁ" votos="1325"/>
+                <candidato n="44900" nome="RARISON ROCHA DA COSTA" votos="1622"/>
+                <candidato n="44999" nome="JOSE ADENILSON FERNANDES DA SILVA" votos="530"/>
+                <candidato n="45" nome="Partido da Social Democracia Brasileira" votos="2208"/>
+                <candidato n="45000" nome="GILBERTO SOUZA DE FIGUEIREDO" votos="989"/>
+                <candidato n="45001" nome="FELIPE HENRIQUE DO NASCIMENTO BASTOS" votos="251"/>
+                <candidato n="45007" nome="JEREMIAS CUNHA DE FRANÇA" votos="41"/>
+                <candidato n="45008" nome="MARIA APARECIDA FREITAS DA SILVA" votos="302"/>
+                <candidato n="45045" nome="ANTONIO CARLOS FERREIRA PORTELA" votos="1003"/>
+                <candidato n="45100" nome="MARIA RAIMUNDA RODRIGUES PINHEIRO MENEZES" votos="2178"/>
+                <candidato n="45111" nome="ANTONIA FRANÇA DE OLIVEIRA VIEIRA" votos="2357"/>
+                <candidato n="45120" nome="JOSE SOARES PACHECO" votos="647"/>
+                <candidato n="45121" nome="LUIZ GONZAGA ALVES FILHO" votos="4369"/>
+                <candidato n="45122" nome="EMERSON AMORIM DE FREITAS" votos="454"/>
+                <candidato n="45123" nome="FRANCINEUDO SOUZA DA COSTA" votos="3480"/>
+                <candidato n="45125" nome="JURANDIR FERREIRA DA SILVA" votos="573"/>
+                <candidato n="45126" nome="LUCIENE SOUZA COSTA" votos="65"/>
+                <candidato n="45145" nome="NESIO MENDES DE CARVALHO" votos="737"/>
+                <candidato n="45190" nome="CADMIEL JOSÉ ARAÚJO BOMFIM" votos="3637"/>
+                <candidato n="45222" nome="ROSIANE DO NASCIMENTO SOUZA" votos="11"/>
+                <candidato n="45323" nome="ROZENIR PIMENTEL DA SILVA" votos="227"/>
+                <candidato n="45324" nome="ANTONIA DE SOUZA NASCIMENTO" votos="123"/>
+                <candidato n="45325" nome="JOSE CARLOS DOS ANJOS FERNANDES" votos="37"/>
+                <candidato n="45333" nome="FRANCISCO FEITOZA BATISTA" votos="1456"/>
+                <candidato n="45369" nome="FRANCISCO HAMILTON D  AVILA LUCENA" votos="600"/>
+                <candidato n="45444" nome="AROLDO MONTEIRO RODRIGUES" votos="58"/>
+                <candidato n="45450" nome="SILVIA MARIA ALMEIDA DO NASCIMENTO" votos="11"/>
+                <candidato n="45456" nome="MARIA CLARA DE OLIVEIRA QUEIROZ LEORNE" votos="17"/>
+                <candidato n="45500" nome="AUDER LIMA GUIMARÃES" votos="353"/>
+                <candidato n="45555" nome="JOSANDRO BARBOZA CAVALCANTE" votos="1535"/>
+                <candidato n="45678" nome="MARCOS TIBURCIO DOS SANTOS" votos="987"/>
+                <candidato n="45777" nome="CARLOS ALBERTO ALVES DE SOUZA" votos="1458"/>
+                <candidato n="45789" nome="SARA GALVÃO DIAS " votos="121"/>
+                <candidato n="45888" nome="JOSÉ CELIO BRITO DA SILVA" votos="2963"/>
+                <candidato n="45999" nome="RAIMUNDO NONATO CELESTINO DA SILVA" votos="96"/>
+                <candidato n="50" nome="Partido Socialismo e Liberdade" votos="262"/>
+                <candidato n="50000" nome="RONY CARTOLIN AGUILAR" votos="148"/>
+                <candidato n="50001" nome="MARIA SIRLENE ALVES MAGALHÃES" votos="82"/>
+                <candidato n="50015" nome="ISRAELITA DE SOUZA SANTOS" votos="21"/>
+                <candidato n="50111" nome="SAMMY  HERMERSON ANDRADE DA SILVA" votos="375"/>
+                <candidato n="50123" nome="CLAUDIO EZEQUIEL PASSAMANI" votos="1805"/>
+                <candidato n="50131" nome="RAIMUNDO ARAUJO DE OLIVEIRA" votos="139"/>
+                <candidato n="50150" nome="MARIA LUCIA COSTA DE ARAÚJO VIEIRA" votos="76"/>
+                <candidato n="50222" nome="ROZINALDA GOMES DE MOURA" votos="53"/>
+                <candidato n="50333" nome="PEDRO TELES DE CARVALHO" votos="93"/>
+                <candidato n="50444" nome="JOSÉ LAÉRCIO DE SOUSA RODRIGUES" votos="1429"/>
+                <candidato n="50505" nome="INES MARTINS BARRETO" votos="22"/>
+                <candidato n="51" nome="Patriota" votos="165"/>
+                <candidato n="51123" nome="DILCÉLIO NOGUEIRA DA SILVA" votos="1075"/>
+                <candidato n="54" nome="Partido Pátria Livre" votos="121"/>
+                <candidato n="54123" nome="ROBISON VASCONCELOS SILVA" votos="186"/>
+                <candidato n="54564" nome="ARLEUDO DIAS VIRGINIO" votos="86"/>
+                <candidato n="55" nome="Partido Social Democrático" votos="2441"/>
+                <candidato n="55000" nome="MARCIA ABREU DA SILVA" votos="95"/>
+                <candidato n="55055" nome="MANOEL CESAR VILACIO" votos="75"/>
+                <candidato n="55111" nome="AMADEU FERREIRA" votos="175"/>
+                <candidato n="55121" nome="JOSÉ PEREIRA DA SILVA" votos="143"/>
+                <candidato n="55123" nome="JARIS DE SOUZA CARVALHO" votos="4490"/>
+                <candidato n="55222" nome="FRANCISCO RODRIGUES CHAVES" votos="1059"/>
+                <candidato n="55234" nome="CLEICIANE FREITAS DA SILVA" votos="163"/>
+                <candidato n="55444" nome="PEDRO OLIVEIRA DA SILVA" votos="61"/>
+                <candidato n="55555" nome="CLEONICE BEZERRA DE MENEZES" votos="295"/>
+                <candidato n="55612" nome="JUSCELINO FRANÇA DE FREITAS" votos="372"/>
+                <candidato n="65" nome="Partido Comunista do Brasil" votos="891"/>
+                <candidato n="65123" nome="EDVALDO SOARES DE MAGALHÃES" votos="6662"/>
+                <candidato n="65333" nome="ISNANDA  FERNANDES DA SILVA " votos="7"/>
+                <candidato n="65478" nome="WALDENIRA PEREIRA DOS SANTOS " votos="75"/>
+                <candidato n="65555" nome="JOSE RODRIGUES ARIMATEIA " votos="124"/>
+                <candidato n="65789" nome="JANILSON LOPES LEITE " votos="8253"/>
+                <candidato n="77" nome="Solidariedade" votos="802"/>
+                <candidato n="77000" nome="ANALÉCIA CRUZ DE PINHO" votos="103"/>
+                <candidato n="77007" nome="WALTER LEITÃO PRADO" votos="1628"/>
+                <candidato n="77012" nome="ANDRÉ LUIZ PEREIRA HASSEM" votos="1215"/>
+                <candidato n="77111" nome="ANTONIO CARLOS MOREIRA ALVES" votos="60"/>
+                <candidato n="77112" nome="GLEISON SOUZA DA CRUZ" votos="284"/>
+                <candidato n="77122" nome="ALDERLANIA DA ROCHA SOUZA" votos="77"/>
+                <candidato n="77123" nome="EDVALDO ALMEIDA DE OLIVEIRA" votos="4113"/>
+                <candidato n="77127" nome="JECSON CAVALCANTE DUTRA" votos="1340"/>
+                <candidato n="77177" nome="VANDERLEY VIANA DE LIMA" votos="414"/>
+                <candidato n="77237" nome="JEAN GONÇALVES DE HOLANDA" votos="217"/>
+                <candidato n="77277" nome="INÊS RODRIGUES DA ROCHA" votos="20"/>
+                <candidato n="77333" nome="ISAÍAS FERREIRA JUNIOR" votos="936"/>
+                <candidato n="77377" nome="MARIA ROSILENE DOS SANTOS MOTA" votos="11"/>
+                <candidato n="77444" nome="SEBASTIÃO BRAGA DE SOUZA" votos="290"/>
+                <candidato n="77456" nome="ANTÔNIO LEILDO OLIVEIRA DA SILVA" votos="278"/>
+                <candidato n="77707" nome="RENILDA ROCHA" votos="98"/>
+                <candidato n="77770" nome="SEBASTIANA MESQUITA DA COSTA" votos="102"/>
+                <candidato n="77777" nome="JOSEMIR ANUTE DOS SANTOS" votos="3395"/>
+                <candidato n="77789" nome="JULIO CESAR PAIVA DE MOURA" votos="806"/>
+                <candidato n="77800" nome="MÁRIO SÉRGIO RODRIGUES DE ARAUJO" votos="1263"/>
+                <candidato n="77877" nome="NÁGELA ROBERTA LIMA BARDALLES" votos="73"/>
+                <candidato n="77888" nome="JOÃO BATISTA FERREIRA DOS SANTOS" votos="3330"/>
+                <candidato n="77977" nome="RAÍLA INÁCIO CORREIA" votos="22"/>
+                <candidato n="90" nome="Partido Republicano da Ordem Social" votos="314"/>
+                <candidato n="90000" nome="MARIA ANTONIA PINHEIRO BARBOSA" votos="7793"/>
+                <candidato n="90111" nome="CLAUDENOR MAGALHÃES SANTANA DE SOUZA" votos="22"/>
+                <candidato n="90123" nome="EDVANIO DA SILVA BARBOSA" votos="319"/>
+                <candidato n="90190" nome="DAVI TEIXEIRA" votos="202"/>
+                <candidato n="90555" nome="ANTONIO JORGE IDELFONSO XAVIER" votos="1240"/>
+                <candidato n="90777" nome="HENRY ANTONIO SILVA NOGUEIRA" votos="2879"/>
+                <candidato n="90888" nome="HUENDSON DE MELO QUEIROZ" votos="96"/>
+                <candidato n="90995" nome="MARCELA RAIANA CAVALCANTE DA COSTA" votos="33"/>
+                <candidato n="90999" nome="MARIA NAZARE DE OLIVEIRA DE FREITAS" votos="19"/>
+            </votacao>
+        </cargo>
+    </estado>
+</eleicao>

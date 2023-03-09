@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eleicao xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="Eleicoes.xsd">
+    <candidatos>
+        <candidato n="12" nome="Cristovam Buarque"/>
+        <candidato n="13" nome="Lula"/>
+        <candidato n="17" nome="Luciano Bivar"/>
+        <candidato n="27" nome="José Maria Eymael"/>
+        <candidato n="29" nome="Rui Costa Pimenta"/>
+        <candidato n="44" nome="Ana Maria Rangel"/>
+        <candidato n="45" nome="Geraldo Alckmin"/>
+        <candidato n="50" nome="Heloísa Helena"/>
+    </candidatos>
+    <turno n="1">
+        <votacao estado="ac" brancos="4018" nulos="17759">
+            <votos n="45" votos="161889"/>
+            <votos n="44" votos="491"/>
+            <votos n="17" votos="70"/>
+            <votos n="13" votos="133221"/>
+            <votos n="27" votos="236"/>
+            <votos n="29" votos="35"/>
+            <votos n="50" votos="13082"/>
+            <votos n="12" votos="3617"/>
+        </votacao>
+        <votacao estado="al" brancos="48020" nulos="124838">
+            <votos n="45" votos="506722"/>
+            <votos n="44" votos="2073"/>
+            <votos n="17" votos="649"/>
+            <votos n="13" votos="625162"/>
+            <votos n="27" votos="380"/>
+            <votos n="29" votos="177"/>
+            <votos n="50" votos="178557"/>
+            <votos n="12" votos="27172"/>
+        </votacao>
+        <votacao estado="am" brancos="18792" nulos="74515">
+            <votos n="45" votos="170785"/>
+            <votos n="44" votos="1806"/>
+            <votos n="17" votos="665"/>
+            <votos n="13" votos="1070656"/>
+            <votos n="27" votos="788"/>
+            <votos n="29" votos="161"/>
+            <votos n="50" votos="90479"/>
+            <votos n="12" votos="36329"/>
+        </votacao>
+        <votacao estado="ap" brancos="2474" nulos="11241">
+            <votos n="45" votos="95070"/>
+            <votos n="44" votos="418"/>
+            <votos n="17" votos="182"/>
+            <votos n="13" votos="160675"/>
+            <votos n="27" votos="166"/>
+            <votos n="29" votos="33"/>
+            <votos n="50" votos="29711"/>
+            <votos n="12" votos="9157"/>
+        </votacao>
+        <votacao estado="ba" brancos="201151" nulos="581489">
+            <votos n="45" votos="1676484"/>
+            <votos n="44" votos="9851"/>
+            <votos n="17" votos="5319"/>
+            <votos n="13" votos="4293200"/>
+            <votos n="27" votos="5565"/>
+            <votos n="29" votos="1407"/>
+            <votos n="50" votos="276325"/>
+            <votos n="12" votos="174313"/>
+        </votacao>
+        <votacao estado="ce" brancos="93891" nulos="329566">
+            <votos n="45" votos="912726"/>
+            <votos n="44" votos="5664"/>
+            <votos n="17" votos="4341"/>
+            <votos n="13" votos="2852895"/>
+            <votos n="27" votos="2633"/>
+            <votos n="29" votos="613"/>
+            <votos n="50" votos="148886"/>
+            <votos n="12" votos="78353"/>
+        </votacao>
+        <votacao estado="df" brancos="21237" nulos="55493">
+            <votos n="45" votos="594521"/>
+            <votos n="44" votos="2367"/>
+            <votos n="17" votos="1518"/>
+            <votos n="13" votos="499407"/>
+            <votos n="27" votos="1718"/>
+            <votos n="29" votos="765"/>
+            <votos n="50" votos="165420"/>
+            <votos n="12" votos="82854"/>
+        </votacao>
+        <votacao estado="es" brancos="51476" nulos="90355">
+            <votos n="45" votos="668792"/>
+            <votos n="44" votos="2805"/>
+            <votos n="17" votos="992"/>
+            <votos n="13" votos="953609"/>
+            <votos n="27" votos="927"/>
+            <votos n="29" votos="624"/>
+            <votos n="50" votos="107172"/>
+            <votos n="12" votos="66097"/>
+        </votacao>
+        <votacao estado="go" brancos="67409" nulos="180348">
+            <votos n="45" votos="1465628"/>
+            <votos n="44" votos="3907"/>
+            <votos n="17" votos="1485"/>
+            <votos n="13" votos="1143122"/>
+            <votos n="27" votos="1372"/>
+            <votos n="29" votos="333"/>
+            <votos n="50" votos="179102"/>
+            <votos n="12" votos="51445"/>
+        </votacao>
+        <votacao estado="ma" brancos="55177" nulos="229422">
+            <votos n="45" votos="530164"/>
+            <votos n="44" votos="3605"/>
+            <votos n="17" votos="1779"/>
+            <votos n="13" votos="2128103"/>
+            <votos n="27" votos="1383"/>
+            <votos n="29" votos="330"/>
+            <votos n="50" votos="80749"/>
+            <votos n="12" votos="72815"/>
+        </votacao>
+        <votacao estado="mg" brancos="384798" nulos="622953">
+            <votos n="45" votos="4151507"/>
+            <votos n="44" votos="14155"/>
+            <votos n="17" votos="5236"/>
+            <votos n="13" votos="5192439"/>
+            <votos n="27" votos="5164"/>
+            <votos n="29" votos="4273"/>
+            <votos n="50" votos="579920"/>
+            <votos n="12" votos="272152"/>
+        </votacao>
+        <votacao estado="ms" brancos="17422" nulos="48932">
+            <votos n="45" votos="687583"/>
+            <votos n="44" votos="1551"/>
+            <votos n="17" votos="486"/>
+            <votos n="13" votos="439965"/>
+            <votos n="27" votos="520"/>
+            <votos n="29" votos="132"/>
+            <votos n="50" votos="68112"/>
+            <votos n="12" votos="24245"/>
+        </votacao>
+        <votacao estado="mt" brancos="28575" nulos="79233">
+            <votos n="45" votos="790320"/>
+            <votos n="44" votos="1846"/>
+            <votos n="17" votos="673"/>
+            <votos n="13" votos="557244"/>
+            <votos n="27" votos="895"/>
+            <votos n="29" votos="172"/>
+            <votos n="12" votos="31457"/>
+            <votos n="50" votos="59201"/>
+        </votacao>
+        <votacao estado="pa" brancos="53781" nulos="129068">
+            <votos n="45" votos="1310437"/>
+            <votos n="44" votos="3626"/>
+            <votos n="17" votos="1262"/>
+            <votos n="13" votos="1631569"/>
+            <votos n="27" votos="1445"/>
+            <votos n="29" votos="152"/>
+            <votos n="50" votos="149278"/>
+            <votos n="12" votos="53059"/>
+        </votacao>
+        <votacao estado="pb" brancos="57181" nulos="169854">
+            <votos n="45" votos="537042"/>
+            <votos n="44" votos="2926"/>
+            <votos n="17" votos="1453"/>
+            <votos n="13" votos="1258341"/>
+            <votos n="27" votos="1144"/>
+            <votos n="29" votos="464"/>
+            <votos n="50" votos="80351"/>
+            <votos n="12" votos="45397"/>
+        </votacao>
+        <votacao estado="pe" brancos="178589" nulos="370461">
+            <votos n="45" votos="964730"/>
+            <votos n="44" votos="4966"/>
+            <votos n="17" votos="6321"/>
+            <votos n="13" votos="2993618"/>
+            <votos n="27" votos="2298"/>
+            <votos n="29" votos="576"/>
+            <votos n="50" votos="157966"/>
+            <votos n="12" votos="90445"/>
+        </votacao>
+        <votacao estado="pi" brancos="33700" nulos="135783">
+            <votos n="45" votos="440063"/>
+            <votos n="44" votos="1960"/>
+            <votos n="17" votos="1134"/>
+            <votos n="13" votos="1055600"/>
+            <votos n="27" votos="517"/>
+            <votos n="29" votos="212"/>
+            <votos n="50" votos="38867"/>
+            <votos n="12" votos="30812"/>
+        </votacao>
+        <votacao estado="pr" brancos="145476" nulos="249181">
+            <votos n="45" votos="2953572"/>
+            <votos n="44" votos="7434"/>
+            <votos n="17" votos="3597"/>
+            <votos n="13" votos="2111589"/>
+            <votos n="27" votos="3086"/>
+            <votos n="29" votos="1321"/>
+            <votos n="50" votos="301688"/>
+            <votos n="12" votos="190452"/>
+        </votacao>
+        <votacao estado="rj" brancos="292369" nulos="636682">
+            <votos n="45" votos="2402076"/>
+            <votos n="44" votos="14136"/>
+            <votos n="17" votos="6348"/>
+            <votos n="13" votos="4092648"/>
+            <votos n="27" votos="9256"/>
+            <votos n="29" votos="4106"/>
+            <votos n="50" votos="1425699"/>
+            <votos n="12" votos="372370"/>
+        </votacao>
+        <votacao estado="rn" brancos="49368" nulos="156775">
+            <votos n="45" votos="499934"/>
+            <votos n="44" votos="3860"/>
+            <votos n="17" votos="1183"/>
+            <votos n="13" votos="952796"/>
+            <votos n="27" votos="897"/>
+            <votos n="29" votos="224"/>
+            <votos n="50" votos="81185"/>
+            <votos n="12" votos="43690"/>
+        </votacao>
+        <votacao estado="ro" brancos="13595" nulos="40780">
+            <votos n="45" votos="344096"/>
+            <votos n="44" votos="1116"/>
+            <votos n="17" votos="557"/>
+            <votos n="13" votos="329598"/>
+            <votos n="27" votos="615"/>
+            <votos n="29" votos="121"/>
+            <votos n="50" votos="40753"/>
+            <votos n="12" votos="14685"/>
+        </votacao>
+        <votacao estado="rr" brancos="2193" nulos="7934">
+            <votos n="45" votos="112908"/>
+            <votos n="44" votos="454"/>
+            <votos n="17" votos="92"/>
+            <votos n="13" votos="49433"/>
+            <votos n="27" votos="145"/>
+            <votos n="29" votos="90"/>
+            <votos n="50" votos="22034"/>
+            <votos n="12" votos="3956"/>
+        </votacao>
+        <votacao estado="rs" brancos="214245" nulos="252527">
+            <votos n="45" votos="3460730"/>
+            <votos n="44" votos="7658"/>
+            <votos n="17" votos="2699"/>
+            <votos n="13" votos="2052656"/>
+            <votos n="27" votos="3602"/>
+            <votos n="29" votos="3315"/>
+            <votos n="12" votos="239437"/>
+            <votos n="50" votos="439959"/>
+        </votacao>
+        <votacao estado="sc" brancos="85003" nulos="164705">
+            <votos n="45" votos="1889277"/>
+            <votos n="44" votos="5318"/>
+            <votos n="17" votos="1974"/>
+            <votos n="13" votos="1108851"/>
+            <votos n="27" votos="1895"/>
+            <votos n="29" votos="843"/>
+            <votos n="50" votos="220431"/>
+            <votos n="12" votos="109876"/>
+        </votacao>
+        <votacao estado="se" brancos="28229" nulos="76717">
+            <votos n="45" votos="446454"/>
+            <votos n="44" votos="1915"/>
+            <votos n="17" votos="647"/>
+            <votos n="13" votos="476399"/>
+            <votos n="27" votos="590"/>
+            <votos n="29" votos="147"/>
+            <votos n="50" votos="62544"/>
+            <votos n="12" votos="17916"/>
+        </votacao>
+        <votacao estado="sp" brancos="709170" nulos="1048712">
+            <votos n="45" votos="11927802"/>
+            <votos n="44" votos="18927"/>
+            <votos n="17" votos="10979"/>
+            <votos n="13" votos="8091867"/>
+            <votos n="27" votos="15710"/>
+            <votos n="29" votos="4973"/>
+            <votos n="50" votos="1558639"/>
+            <votos n="12" votos="385119"/>
+        </votacao>
+        <votacao estado="to" brancos="7603" nulos="45504">
+            <votos n="45" votos="249544"/>
+            <votos n="44" votos="932"/>
+            <votos n="17" votos="294"/>
+            <votos n="13" votos="392151"/>
+            <votos n="27" votos="216"/>
+            <votos n="29" votos="47"/>
+            <votos n="12" votos="9802"/>
+            <votos n="50" votos="15989"/>
+        </votacao>
+    </turno>    
+    <turno n="2">
+        <votacao estado="ac" brancos="1899" nulos="7269">
+            <votos n="45" votos="137911"/>
+            <votos n="13" votos="151584"/>
+        </votacao>
+        <votacao estado="al" brancos="15587" nulos="49892">
+            <votos n="45" votos="516059"/>
+            <votos n="13" votos="822505"/>
+        </votacao>
+        <votacao estado="am" brancos="8456" nulos="25392">
+            <votos n="45" votos="176338"/>
+            <votos n="13" votos="1159709"/>
+        </votacao>
+        <votacao estado="ap" brancos="1779" nulos="5516">
+            <votos n="45" votos="80601"/>
+            <votos n="13" votos="191698"/>
+        </votacao>
+        <votacao estado="ba" brancos="75653" nulos="267177">
+            <votos n="45" votos="1456417"/>
+            <votos n="13" votos="5188314"/>
+        </votacao>
+        <votacao estado="ce" brancos="38672" nulos="126408">
+            <votos n="45" votos="725990"/>
+            <votos n="13" votos="3394007"/>
+        </votacao>
+        <votacao estado="df" brancos="15578" nulos="37043">
+            <votos n="45" votos="578137"/>
+            <votos n="13" votos="765008"/>
+        </votacao>
+        <votacao estado="es" brancos="24319" nulos="43804">
+            <votos n="45" votos="625852"/>
+            <votos n="13" votos="1190459"/>
+        </votacao>
+        <votacao estado="go" brancos="37096" nulos="223023">
+            <votos n="45" votos="1226011"/>
+            <votos n="13" votos="1485280"/>
+        </votacao>
+        <votacao estado="ma" brancos="24518" nulos="253945">
+            <votos n="45" votos="414108"/>
+            <votos n="13" votos="2280520"/>
+        </votacao>
+        <votacao estado="mg" brancos="156832" nulos="395621">
+            <votos n="45" votos="3635228"/>
+            <votos n="13" votos="6808417"/>
+        </votacao>
+        <votacao estado="ms" brancos="8677" nulos="25256">
+            <votos n="45" votos="655491"/>
+            <votos n="13" votos="535966"/>
+        </votacao>
+        <votacao estado="mt" brancos="11158" nulos="29645">
+            <votos n="45" votos="719984"/>
+            <votos n="13" votos="711177"/>
+        </votacao>
+        <votacao estado="pa" brancos="22357" nulos="70981">
+            <votos n="45" votos="1220564"/>
+            <votos n="13" votos="1840154"/>
+        </votacao>
+        <votacao estado="pb" brancos="27087" nulos="134607">
+            <votos n="45" votos="492524"/>
+            <votos n="13" votos="1478378"/>
+        </votacao>
+        <votacao estado="pe" brancos="85958" nulos="430108">
+            <votos n="45" votos="894062"/>
+            <votos n="13" votos="3260996"/>
+        </votacao>
+        <votacao estado="pi" brancos="13545" nulos="62121">
+            <votos n="45" votos="356879"/>
+            <votos n="13" votos="1216842"/>
+        </votacao>
+        <votacao estado="pr" brancos="79667" nulos="382809">
+            <votos n="45" votos="2744697"/>
+            <votos n="13" votos="2663423"/>
+        </votacao>
+        <votacao estado="rj" brancos="191676" nulos="871469">
+            <votos n="45" votos="2406487"/>
+            <votos n="13" votos="5532284"/>
+        </votacao>
+        <votacao estado="rn" brancos="25800" nulos="147476">
+            <votos n="45" votos="477212"/>
+            <votos n="13" votos="1099150"/>
+        </votacao>
+        <votacao estado="ro" brancos="5040" nulos="14267">
+            <votos n="45" votos="320806"/>
+            <votos n="13" votos="397327"/>
+        </votacao>
+        <votacao estado="rr" brancos="1291" nulos="3641">
+            <votos n="45" votos="106890"/>
+            <votos n="13" votos="66932"/>
+        </votacao>
+        <votacao estado="rs" brancos="108626" nulos="147382">
+            <votos n="45" votos="3485916"/>
+            <votos n="13" votos="2811658"/>
+        </votacao>
+        <votacao estado="sc" brancos="49146" nulos="226010">
+            <votos n="45" votos="1776776"/>
+            <votos n="13" votos="1481344"/>
+        </votacao>
+        <votacao estado="se" brancos="12652" nulos="35102">
+            <votos n="45" votos="404897"/>
+            <votos n="13" votos="611337"/>
+        </votacao>
+        <votacao estado="sp" brancos="303249" nulos="773627">
+            <votos n="45" votos="11696938"/>
+            <votos n="13" votos="10684776"/>
+        </votacao>
+        <votacao estado="to" brancos="4145" nulos="17924">
+            <votos n="45" votos="189491"/>
+            <votos n="13" votos="447849"/>
+        </votacao>
+    </turno>
+</eleicao>

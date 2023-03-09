@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    <xs:element name="eleicao">
+        <xs:complexType>
+            <xs:choice minOccurs="1" maxOccurs="2">
+                <xs:element name="candidatos" type="tCandidatos" minOccurs="1" maxOccurs="1" />
+                <xs:element name="turno" type="tTurno" minOccurs="1" maxOccurs="2" />
+            </xs:choice>
+        </xs:complexType>
+        <xs:key name="numero">
+            <xs:selector xpath="candidatos/candidato"/>
+            <xs:field xpath="@n"/>
+        </xs:key>
+        <xs:keyref name="numero_ref" refer="numero">
+            <xs:selector xpath="turno/votacao/votos" />
+            <xs:field xpath="@n" />
+        </xs:keyref>    
+    </xs:element>
+    <xs:complexType name="tCandidatos">
+        <xs:sequence>
+            <xs:element name="candidato" type="tCandidato" maxOccurs="unbounded"/>            
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="tTurno">
+        <xs:sequence>
+            <xs:element name="votacao" type="tVotacao" maxOccurs="unbounded" />
+        </xs:sequence>
+        <xs:attribute name="n">
+            <xs:simpleType>
+                <xs:restriction base="xs:positiveInteger">
+                    <xs:minInclusive value="1"/>
+                    <xs:maxInclusive value="2"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+    <xs:complexType name="tCandidato">
+        <xs:attribute name="n">
+            <xs:simpleType>
+                <xs:restriction base="xs:integer">
+                    <xs:minInclusive value="0"/>
+                    <xs:maxInclusive value="99"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="nome" type="xs:string" />
+    </xs:complexType>
+    <xs:complexType name="tVotacao">
+        <xs:sequence>
+            <xs:element name="votos" type="tVotos" maxOccurs="unbounded" />
+        </xs:sequence>
+        <xs:attribute name="brancos" type="xs:positiveInteger" />
+        <xs:attribute name="nulos" type="xs:positiveInteger" />
+        <xs:attribute name="abstencao" type="xs:positiveInteger" />
+        <xs:attribute name="estado">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="ac" />
+                    <xs:enumeration value="am" />
+                    <xs:enumeration value="ap" />
+                    <xs:enumeration value="ba" />
+                    <xs:enumeration value="ce" />
+                    <xs:enumeration value="ro" />
+                    <xs:enumeration value="rr" />
+                    <xs:enumeration value="to" />
+                    <xs:enumeration value="pa" />
+                    <xs:enumeration value="al" />
+                    <xs:enumeration value="se" />
+                    <xs:enumeration value="pe" />
+                    <xs:enumeration value="pb" />
+                    <xs:enumeration value="rn" />
+                    <xs:enumeration value="ce" />
+                    <xs:enumeration value="pi" />
+                    <xs:enumeration value="ma" />
+                    <xs:enumeration value="sp" />
+                    <xs:enumeration value="mg" />
+                    <xs:enumeration value="rj" />
+                    <xs:enumeration value="es" />
+                    <xs:enumeration value="df" />
+                    <xs:enumeration value="mt" />
+                    <xs:enumeration value="ms" />
+                    <xs:enumeration value="go" />
+                    <xs:enumeration value="rs" />
+                    <xs:enumeration value="sc" />
+                    <xs:enumeration value="pr" />
+                    <xs:enumeration value="vt" />
+                    <xs:enumeration value="zz" />
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+    <xs:complexType name="tVotos">
+        <xs:attribute name="n">
+            <xs:simpleType>
+                <xs:restriction base="xs:integer">
+                    <xs:minInclusive value="0"/>
+                    <xs:maxInclusive value="99"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="votos" type="xs:nonNegativeInteger" />
+    </xs:complexType>
+</xs:schema>
