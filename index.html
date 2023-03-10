@@ -5,19 +5,15 @@
     <title>Eleições</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script src="Chart.js"></script>
-    <!-- <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="index.js"></script>
     <link rel="icon" type="image/svg" href="Brazil.svg" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
 <body>
     <div>
         <form action="#">
-            <select name="operacao">
-                <option value="1">Resultado Absoluto</option>
-                <option value="2">Resultado Percentual</option>
-            </select>
             <select name="ano">
                 <option>1989</option>
                 <option>1994</option>
@@ -33,7 +29,7 @@
                 <option>2</option>
             </select>
         </form>
-        <canvas id="chart" width="800" height="400"></canvas>
+        <main><canvas id="chart"></canvas></main>
         <object width="500" height="500" type="image/svg" data="Brazil.svg" id="mapa"></object>
     </div>
 </body>
