@@ -12,7 +12,7 @@ class Grafico {
         let sum = temp.reduce((a, b) => a + b.votos, 0);
         temp.forEach(e => e.perc = e.votos / sum);
         temp.sort((a, b) => b.votos - a.votos);
-        if(this.turno === 2) {
+        if (this.turno === 2) {
             temp = temp.slice(0, 2);
         }
         return temp;
@@ -45,11 +45,11 @@ class Grafico {
                         callbacks: {
                             label: (tooltipItem) => {
                                 let i = tooltipItem.dataIndex;
-                                let perc = new Intl.NumberFormat('pt-br', {style: 'percent', minimumFractionDigits: 2, maximumFractionDigits: 2}).format(dados[i].perc);
+                                let perc = new Intl.NumberFormat('pt-br', { style: 'percent', minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(dados[i].perc);
                                 return `${tooltipItem.formattedValue} (${perc})`;
                             }
                         }
-                    },    
+                    },
                 }
             }
         });
@@ -62,17 +62,13 @@ class Grafico {
     computeVotes(n) {
         let iterator = this.xml.evaluate(`//turno[@n=${this.turno}]//votos[@n=${n}]`, this.xml, null, XPathResult.UNORDERED_NODE_ITERATOR_TYPE, null);
         let sum = 0;
-        try {
-            var thisNode = iterator.iterateNext();
-            while (thisNode) {
-                if (thisNode.getAttribute("votos") !== "") {
-                    let votos = parseInt(thisNode.getAttribute("votos"));
-                    sum += votos;
-                }
-                thisNode = iterator.iterateNext();
+        let thisNode = iterator.iterateNext();
+        while (thisNode) {
+            if (thisNode.getAttribute("votos") !== "") {
+                let votos = parseInt(thisNode.getAttribute("votos"));
+                sum += votos;
             }
-        } catch (e) {
-            console.log('Error: Document tree modified during iteration ' + e);
+            thisNode = iterator.iterateNext();
         }
         return sum;
     }
