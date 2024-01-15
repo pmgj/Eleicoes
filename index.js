@@ -21,7 +21,6 @@ class Grafico {
         this.xml = this.xhr.responseXML;
         let labels = this.computeData();
         this.setPieChart(labels);
-        document.getElementById("mapa").style.display = "none";
         document.getElementById("chart").style.display = "block";
     }
     setPieChart(dados) {
@@ -82,7 +81,6 @@ class Grafico {
         let form = document.forms[0];
         form.ano.onchange = this.execute.bind(this);
         form.turno.onchange = this.execute.bind(this);
-        document.getElementById("mapa").style.display = "none";
         document.getElementById("chart").style.display = "none";
         this.execute();
     }
